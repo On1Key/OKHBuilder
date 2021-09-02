@@ -22,7 +22,7 @@ pod 'OKHBuilder'
 
 ## Author
 
-on1key@foxmail.com, yangwenqi@shihuituan.com
+on1key@foxmail.com
 
 ## License
 

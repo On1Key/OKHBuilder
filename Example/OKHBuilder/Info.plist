@@ -33,7 +33,37 @@
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
-		<string>UIInterfaceOrientationLandscapeLeft</string>
 	</array>
+	<key>dcloud_appkey</key>
+	<string>363800bbd01eb69aa9e76821d1b596ac</string>
+	<key>dcloud_uninview_background</key>
+	<true/>
+	<key>dcloud_uniplugins</key>
+	<array>
+		<dict>
+			<key>hooksClass</key>
+			<string>DCRichAlertProxy</string>
+			<key>plugins</key>
+			<array>
+				<dict>
+					<key>class</key>
+					<string>DCRichAlertModule</string>
+					<key>name</key>
+					<string>DCloud-RichAlert</string>
+					<key>type</key>
+					<string>module</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>getui</key>
+	<dict>
+		<key>appid</key>
+		<string>去官方网站申请对应的appid</string>
+		<key>appkey</key>
+		<string>去官方网站申请对应的key</string>
+		<key>appsecret</key>
+		<string>去官方网站申请对应的值</string>
+	</dict>
 </dict>
 </plist>

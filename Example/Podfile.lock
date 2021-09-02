@@ -1,0 +1,23 @@
+PODS:
+  - OKHBuilder (0.2.0)
+  - Quick (2.2.1)
+
+DEPENDENCIES:
+  - OKHBuilder (from `../`)
+  - Quick (~> 2.2.0)
+
+SPEC REPOS:
+  trunk:
+    - Quick
+
+EXTERNAL SOURCES:
+  OKHBuilder:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  OKHBuilder: 42ee9ed4bc228c035430d0387dcb25c2edd4fdf6
+  Quick: f5754d69b7013f5864c29aab9ae6f0c79c5bc200
+
+PODFILE CHECKSUM: 54264314c998bb3cbf09ad4f540344be16f267ac
+
+COCOAPODS: 1.10.1
